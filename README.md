@@ -10,17 +10,18 @@
 
 ## Step 2 - Create your project folder
 Your project folder should have this structure
-
+```
 project-folder/
-* app.py
-* __init__.py
-* components/
-	* files.py
-	* __init__.py
-* data/
-	* datafiles
-* images/
-	* imagefiles
+|-app.py
+|__init__.py
+|-components/
+	|-files.py
+	|-__init__.py
+|-data/
+	|-datafiles
+|images/
+	|-imagefiles
+```
 
 * Step 3 - Populate your app.py file
 
