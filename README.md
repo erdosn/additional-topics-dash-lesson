@@ -33,5 +33,13 @@ project-folder/
 * Add an input box to take in a string
 * Add callbacks to modify the H2 Header
 * Add iris dataset graph
+* Make the app multipage using Joel's walkthrough
+    * I've never done this! So be prepared for some minor issues. :) 
+
+# Resource
+* [Here's a great walkthrough by Joel Collins (DS Coach)](https://towardsdatascience.com/create-a-multipage-dash-application-eceac464de91)
+
+# Pros
+* allows you to write dashboards without learning html/css and javascript
 
 # Enjoy!
