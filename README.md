@@ -20,8 +20,8 @@ project-folder/
 |-data/
 	|-datafiles
 |assets/
-    |-cssfiles
-	|-imagefiles
+    |-cssfiles.css
+    |-imagefiles.png
 ```
 
 * Step 3 - Populate your app.py file
